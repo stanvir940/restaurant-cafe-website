@@ -51,7 +51,7 @@ const Menu = () => {
         <div className="text-center text-black flex flex-col justify-center items-center">
           <div className="w-1/2 border-2 text-center bg-[#ffd622] p-6 rounded-ss-full rounded-ee-full">
             <h1 className="text-5xl md:text-7xl font-serif">
-              This Week's Top Recipes
+              This Week Top Recipes
             </h1>
           </div>
           <p className="font-thin text-lg  pt-4">
